@@ -1,8 +1,4 @@
 {
-    "836D8F6A-8108-4DDB-8897-09261E2BFDAD": {
-        "attivo": false,
-        "nota": "Mio PC di test"
-    },
     "nuovo_id_hardware": {
         "attivo": true,
         "nota": "new_user"
